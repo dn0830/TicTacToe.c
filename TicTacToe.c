@@ -10,7 +10,7 @@ char checkWinner();
 void printWinner(char);
 void resetBoard();
 
-//2D array of charactersa
+//2D array of characters
 char board[3][3];
 const char PLAYER = 'X';
 const char COMPUTER = 'O';
